@@ -34,14 +34,7 @@ SELECT * from transactions where currency="USD"
 <img width="5000" alt="image" src="https://user-images.githubusercontent.com/70011358/227712972-2efbf9e3-c93a-4452-bb80-5a3e92d87a49.png">
 
 
-# Skills Learned-
-
-1.Started using Power BI & power query, also learned how to create DAX queries.
-
-2.Analysed the dataset in MySQL using varous queries.
-
-
-Insights
+# Insights
 
 1. Need to focus on south region more because it has less sales quantity as compare other regions.
 
@@ -50,3 +43,10 @@ Insights
 3. From the revenue trend I observed that revenue is going down rapidly after year 2018. Below insights could be the reason for the trend to go down.
 
 4. There are some blanks  present in the products data which we cannot identify, so we need to check with the business team.
+
+
+# Skills Learned-
+
+1.Started using Power BI & power query, also learned how to create DAX queries.
+
+2.Analysed the dataset in MySQL using varous queries.
