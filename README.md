@@ -26,12 +26,12 @@ SELECT * from transactions where currency="USD"
 
 # Data Modelling-
 
-<img width="451" alt="image" src="https://user-images.githubusercontent.com/70011358/220061377-a8a2169d-5386-416d-b86e-85c315c889ad.png">
+<img width="5000" alt="image" src="https://user-images.githubusercontent.com/70011358/220061377-a8a2169d-5386-416d-b86e-85c315c889ad.png">
 
 
 # Dashboard 
 
-<img width="5000" alt="image" src="https://user-images.githubusercontent.com/70011358/220059988-f5aadbca-93e9-4b18-a9e1-16d7f03bf1d7.png">
+<img width="5000" alt="image" src="https://user-images.githubusercontent.com/70011358/227712972-2efbf9e3-c93a-4452-bb80-5a3e92d87a49.png">
 
 
 # Skills Learned-
@@ -39,3 +39,14 @@ SELECT * from transactions where currency="USD"
 1.Started using Power BI & power query, also learned how to create DAX queries.
 
 2.Analysed the dataset in MySQL using varous queries.
+
+
+Insights
+
+1. Need to focus on south region more because it has less sales quantity as compare other regions.
+
+2. We need to focus more on these two customers to find out why we are not getting much revenue to satisfy the customer needs.
+
+3. From the revenue trend I observed that revenue is going down rapidly after year 2018. Below insights could be the reason for the trend to go down.
+
+4. There are some blanks  present in the products data which we cannot identify, so we need to check with the business team.
